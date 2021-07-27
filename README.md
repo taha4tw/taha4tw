@@ -1,3 +1,3 @@
-## it's taha only
+## taha :ghost:
 
-[![taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=taha4tw)]
+[![taha's github statsheet](https://github-readme-stats.vercel.app/api?username=taha4tw)]
